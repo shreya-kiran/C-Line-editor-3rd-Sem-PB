@@ -10,8 +10,8 @@ line numbers, with no GUI.
 ## Team
 | Name | Roll No. | GitHub |
 |------|----------|--------|
-| <Your Name> | <Roll No.> | [@<username>](https://github.com/<username>) |
-| <Teammate> | <Roll No.> | [@<username>](https://github.com/<username>) |
+| <Shreya K> | <R25EF255> | https://github.com/shreya-kiran |
+| <Snehashree C> | <R@%EF265> | https://github.com/sneha-shree18 |
 
 ## Features implemented
 **Core:**
